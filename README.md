@@ -1,17 +1,17 @@
-# restaurant-demo
+# Restaurant Website Demo (Practice Project)
 
-نام پروژه: صفحه اصلی وب‌سایت رستوران – تمرین HTML و CSS
-این پروژه یک تمرین آموزشی از سایت admins​​ite.com است که با هدف یادگیری HTML و CSS ساخته شده.
-در این پروژه، از سورس تمرینی رایگان استفاده شده و تغییراتی مانند:
+This is a simple restaurant website demo created using HTML and CSS as part of a training exercise from adminesite.com.
+The project focuses on practicing page layout, basic styling, and structuring a static website.
 
-ویرایش عنوان و متن‌ها
+## Technologies
+- HTML
+- CSS
 
-تغییر تصویر پس‌زمینه (بک‌گراند ماهی)
+## Purpose
+Learning and practicing front-end development fundamentals, including layout design and basic styling.
 
-شخصی‌سازی نام و بخش‌های مختلف
+---
 
-
-توسط من انجام شده تا با ساختار کد و نحوه‌ی طراحی صفحه آشنا بشوم.
-
-هدف: تمرین مهارت‌های پایه طراحی وب با HTML و css
-
+## توضیح فارسی
+این پروژه یک وب‌سایت نمونه رستوران است که به‌عنوان تمرین آموزشی از سایت adminesite.com انجام شده است.
+هدف از انجام این پروژه، تمرین مهارت‌های پایه طراحی وب با HTML و CSS، چیدمان صفحه، و استایل‌دهی ساده می‌باشد.
