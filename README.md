@@ -15,3 +15,9 @@ Learning and practicing front-end development fundamentals, including layout des
 ## توضیح فارسی
 این پروژه یک وب‌سایت نمونه رستوران است که به‌عنوان تمرین آموزشی از سایت adminesite.com انجام شده است.
 هدف از انجام این پروژه، تمرین مهارت‌های پایه طراحی وب با HTML و CSS، چیدمان صفحه، و استایل‌دهی ساده می‌باشد.
+
+
+## نمونه‌کارهای من
+- 📱 تلگرام: [Yalda Codes](https://t.me/yalda_codes)
+- 📱 روبیکا: [Zeynab Codes](https://rubika.ir/@zeynab_codes)
+- 💻 تخصص: HTML, CSS, JavaScript
